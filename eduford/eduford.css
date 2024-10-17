@@ -12,7 +12,10 @@ body {
 }
 
 
-
+.nav-mobile{
+    fill: white;
+    color: white;
+}
 
 
 /* Utility classes */
